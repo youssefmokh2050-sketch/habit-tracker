@@ -1,0 +1,10 @@
+{
+  "appId": "com.mytracker.habits",
+  "appName": "متتبع العادات",
+  "webDir": "www",
+  "backgroundColor": "#070B14",
+  "android": {
+    "backgroundColor": "#070B14",
+    "allowMixedContent": false
+  }
+}
